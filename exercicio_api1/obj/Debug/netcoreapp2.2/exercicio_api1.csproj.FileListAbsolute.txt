@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\exercicio_api1\obj\Debug\netcoreapp2.2\exercicio_api1.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\exercicio_api1\obj\Debug\netcoreapp2.2\exercicio_api1.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\exercicio_api1\obj\Debug\netcoreapp2.2\exercicio_api1.RazorAssemblyInfo.cache
+C:\Users\fic\Desktop\exercicio_api1\obj\Debug\netcoreapp2.2\exercicio_api1.RazorAssemblyInfo.cs
+C:\Users\fic\Desktop\exercicio_api1\obj\Debug\netcoreapp2.2\exercicio_api1.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\exercicio_api1\obj\Debug\netcoreapp2.2\exercicio_api1.AssemblyInfo.cs
+C:\Users\fic\Desktop\exercicio_api1\bin\Debug\netcoreapp2.2\exercicio_api1.deps.json
+C:\Users\fic\Desktop\exercicio_api1\bin\Debug\netcoreapp2.2\exercicio_api1.runtimeconfig.json
+C:\Users\fic\Desktop\exercicio_api1\bin\Debug\netcoreapp2.2\exercicio_api1.runtimeconfig.dev.json
+C:\Users\fic\Desktop\exercicio_api1\bin\Debug\netcoreapp2.2\exercicio_api1.dll
+C:\Users\fic\Desktop\exercicio_api1\bin\Debug\netcoreapp2.2\exercicio_api1.pdb
+C:\Users\fic\Desktop\exercicio_api1\obj\Debug\netcoreapp2.2\exercicio_api1.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\exercicio_api1\obj\Debug\netcoreapp2.2\exercicio_api1.dll
+C:\Users\fic\Desktop\exercicio_api1\obj\Debug\netcoreapp2.2\exercicio_api1.pdb

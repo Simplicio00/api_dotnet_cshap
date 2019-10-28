@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>gufosapi</name>
+    </assembly>
+    <members>
+        <member name="M:gufosapi.Controllers.LoginController.autenticarUsuario(gufosapi.Models.Usuario)">
+            <summary>
+            método privado que valida se um usuário existe em nosso banco de dados
+            </summary>
+            <param name="login">Objeto do tipo usuario</param>
+            <returns>Objeto do tipo usuario</returns>
+        </member>
+    </members>
+</doc>
